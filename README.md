@@ -1,5 +1,4 @@
-![Giovana Aride Animation](https://svgwave.in/s/your-animation-id)
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFFF&size=40&center=true&vCenter=true&width=1000&lines=I+am+Giovana+Aride;Front-End+Developer)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=giovanaaride&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
