@@ -9,11 +9,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giovanaaride&layout=compact&langs_count=5&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" height="195px" style="max-width: 49%;" alt="languages graph" />
 </div>
 
-<h3 align="left">Skills</h3>
+<h2 align="left">🔧 Skills</h2>
 
 ###
 
-<h4 align="center">Front-End</h4>
+<h3 align="center">Front-End</h3>
 
 ###
 
@@ -35,7 +35,9 @@
 
 ###
 
-<h4 align="center">Tools</h4>
+<br clear="both">
+
+<h3 align="center">Tools</h3>
 
 ###
 
@@ -57,12 +59,12 @@
 
 <br clear="both">
 
-<h3 align="left">About me</h3>
+<h3 align="left">💬  About me</h3>
 
 ###
 
 <br clear="both">
 
-<p align="left">👩🏻‍💻 Currently seeking a job or internship.<br>🧑‍🎓 Computer Engineering student at Universidade Cândido Mendes.<br>📍 Rio de Janeiro, RJ, Brazil.<br>💻 Specifications:<br>B450M Asus Prime Gaming<br>Ryzen 3 2200G (Vega 8)<br>16GB (2x8) RAM 2666hz<br>🎮 RPG, Euro Truck Simulator 2, League of Legends, Teamfight Tactics.<br>💡 Main technologies:<br>HTML, CSS, React, Sass, JavaScript<br>🧠 Learning:<br>JavaScript, TypeScript.<br>My portfolio:<br>https://giovanaaride.vercel.app/</p>
+<p align="left">👩🏻‍💻 Currently seeking a job or internship.<br>🧑‍🎓 Computer Engineering student at Universidade Cândido Mendes.<br>📍 Rio de Janeiro, RJ, Brazil.<br>💻 Specifications:<br>B450M Asus Prime Gaming<br>Ryzen 3 2200G (Vega 8)<br>16GB (2x8) RAM 2666hz<br>🎮 RPG, Euro Truck Simulator 2, League of Legends, Teamfight Tactics.<br>🌐 Main technologies:<br>HTML, CSS, React, Sass, JavaScript<br>🧠 Learning:<br>JavaScript, TypeScript.<br>My portfolio:<br>https://giovanaaride.vercel.app/</p>
 
 ###
