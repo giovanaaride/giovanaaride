@@ -1,5 +1,4 @@
-![Giovana Aride](https://i.imgur.com/your-gif-url.gif)
-
+![Giovana Aride SVG Animation](https://svgwave.in/s/nu84o0)
 
 
 <div align="center">
