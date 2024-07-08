@@ -7,13 +7,22 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=giovanaaride&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" height="195px" style="max-width: 49%;" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giovanaaride&layout=compact&langs_count=5&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" height="195px" style="max-width: 49%;" alt="languages graph" />
+</div<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=giovanaaride&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="130" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giovanaaride&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="130" alt="languages graph"  />
 </div>
-
-
 
 ###
 
-<div align="left">
+<h3 align="left">Skills</h3>
+
+###
+
+<h4 align="center">Front-End</h4>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -26,6 +35,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+</div>
+
+###
+
+<h4 align="center">Tools</h4>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -34,7 +53,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
 </div>
 
 ###
@@ -42,5 +63,11 @@
 <br clear="both">
 
 <h3 align="left">About me</h3>
+
+###
+
+<br clear="both">
+
+<p align="left">👩🏻‍💻 Currently seeking a job or internship.<br>🧑‍🎓 Computer Engineering student at Universidade Cândido Mendes.<br>📍 Rio de Janeiro, RJ, Brazil.<br>💻 Specifications:<br>B450M Asus Prime Gaming<br>Ryzen 3 2200G (Vega 8)<br>16GB (2x8) RAM 2666hz<br>🎮 RPG, Euro Truck Simulator 2, League of Legends, Teamfight Tactics.<br>💡 Main technologies:<br>HTML, CSS, React, Sass, JavaScript<br>🧠 Learning:<br>JavaScript, TypeScript.<br>My portfolio:<br>https://giovanaaride.vercel.app/</p>
 
 ###
