@@ -3,9 +3,10 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFFF&size=40&center=true&vCenter=true&width=1000&lines=I+am+Giovana+Aride;Front-End+Developer)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giovanaaride&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1&bg_color=0D1117" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giovanaaride&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2&bg_color=0D1117" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=giovanaaride&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" height="195px" style="max-width: 49%;" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giovanaaride&layout=compact&langs_count=5&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" height="195px" style="max-width: 49%;" alt="languages graph" />
 </div>
+
 
 
 ###
