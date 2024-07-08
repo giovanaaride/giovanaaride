@@ -1,4 +1,5 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFFF&size=40&center=true&vCenter=true&width=1000&lines=I+am+Giovana+Aride!;Full+Stack+Developer;HTML+%7C+CSS+%7C+SASS+%7C+JavaScript+%7C+React+%7C+Figma)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230000FF&size=40&center=true&vCenter=true&width=1000&lines=I+am+Giovana+Aride;Front-End+Developer;Html,+Css,+JavaScript,+React,+Sass,+Figma&font=lobster&pause=1000&repeat=true)
+
 
 
 <div align="center">
