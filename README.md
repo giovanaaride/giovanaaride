@@ -1,6 +1,6 @@
 <img width="100%" src="https://camo.githubusercontent.com/d323bf92adb96c6b2f1fe6d7a1f4ab7fb8cd328db04cb5d9ce8efbd84a7d7813/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3132302673656374696f6e3d686561646572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=00bfbf&amp;height=120&amp;section=header" style="max-width: 100%;">
 
-<img src="https://camo.githubusercontent.com/67768115e2426dba440e4d1d8db71ed970ee69a40e87800b5386d534fbcdbbb9/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d3030464646462673697a653d34302663656e7465723d74727565267643656e7465723d747275652677696474683d31303030266c696e65733d492b616d2b47696f76616e612b41726964653b46726f6e742d456e642b446576656c6f706572&amp;color=87CEEB&amp;size=40&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=I+am+Giovana+Aride;Front-End+Developer" alt="Typing SVG" style="max-width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?color=87CEEB&amp;size=40&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=I+am+Giovana+Aride;Front-End+Developer" alt="Typing SVG" style="max-width: 100%;">
 
 
 <div align="center">
