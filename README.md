@@ -1,6 +1,12 @@
 <img width="100%" src="https://camo.githubusercontent.com/d323bf92adb96c6b2f1fe6d7a1f4ab7fb8cd328db04cb5d9ce8efbd84a7d7813/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3132302673656374696f6e3d686561646572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=00bfbf&amp;height=120&amp;section=header" style="max-width: 100%;">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFFF&size=40&center=true&vCenter=true&width=1000&lines=I+am+Giovana+Aride;Front-End+Developer)
+<div align="center" style="background-color: #e0f2f1; padding: 20px;">
+  <h2 style="color: #00bcd4;"><code>&lt;Hello World/&gt;</code></h2>
+  <h3 style="color: #00bcd4;">Welcome to my GitHub!</h3>
+  
+  <img width="1000px" src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=40&center=true&vCenter=true&width=1000&lines=I+am+Giovana+Aride;Front-End+Developer" alt="Typing SVG" />
+</div>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=giovanaaride&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" height="195px" style="max-width: 49%;" alt="stats graph" />
