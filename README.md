@@ -2,6 +2,34 @@
   <img src="https://svgwave.in/s/nu84o0" alt="Giovana Aride Animation"/>
 </p>
 
+ <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background-color: #282c34;
+      color: white;
+      font-family: 'Arial', sans-serif;
+      overflow: hidden;
+    }
+    .typing-container {
+      font-size: 2rem;
+      white-space: nowrap;
+      border-right: 0.15em solid orange;
+      overflow: hidden;
+      animation: typing 4s steps(30, end) infinite, blink-caret 0.75s step-end infinite;
+    }
+    @keyframes typing {
+      from { width: 0 }
+      to { width: 100% }
+    }
+    @keyframes blink-caret {
+      from, to { border-color: transparent }
+      50% { border-color: orange; }
+    }
+  </style>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=giovanaaride&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giovanaaride&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
