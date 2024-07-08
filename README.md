@@ -2,10 +2,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&amp;size=40&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=I+am+Giovana+Aride;Front-End+Developer" alt="Typing SVG" style="max-width: 100%;">
 
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giovanaaride&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" height="195px" style="display: inline-block; margin-right: 5px;" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giovanaaride&layout=compact&langs_count=5&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" height="195px" style="display: inline-block; margin-left: 5px;" alt="languages graph" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=giovanaaride&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="stats graph" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=giovanaaride&layout=compact&langs_count=5&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="languages graph" />
 </div>
 
 <h2 align="left">🔧 Skills</h2>
