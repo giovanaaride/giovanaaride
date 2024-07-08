@@ -1,6 +1,7 @@
 <img width="100%" src="https://camo.githubusercontent.com/d323bf92adb96c6b2f1fe6d7a1f4ab7fb8cd328db04cb5d9ce8efbd84a7d7813/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3132302673656374696f6e3d686561646572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=00bfbf&amp;height=120&amp;section=header" style="max-width: 100%;">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=87CEEB&amp;size=40&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=I+am+Giovana+Aride;Front-End+Developer" alt="Typing SVG" style="max-width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&amp;size=40&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=I+am+Giovana+Aride;Front-End+Developer" alt="Typing SVG" style="max-width: 100%;">
+
 
 
 <div align="center">
