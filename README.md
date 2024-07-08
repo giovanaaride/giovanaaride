@@ -1,11 +1,14 @@
 <img width="100%" src="https://camo.githubusercontent.com/d323bf92adb96c6b2f1fe6d7a1f4ab7fb8cd328db04cb5d9ce8efbd84a7d7813/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3132302673656374696f6e3d686561646572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=00bfbf&amp;height=120&amp;section=header" style="max-width: 100%;">
 
 <div align="center" style="background-color: #e0f2f1; padding: 20px;">
-  <h2 style="color: #00bcd4;"><code>&lt;Hello World/&gt;</code></h2>
-  <h3 style="color: #00bcd4;">Welcome to my Github !</h3>
+  <div style="color: #00bcd4; font-size: 24px; font-weight: bold;">
+    &lt;Hello World/&gt;<br>
+    Welcome to my Github !
+  </div>
   
   <img width="1000px" src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=40&center=true&vCenter=true&width=1000&lines=I+am+Giovana+Aride;Front-End+Developer" alt="Typing SVG" />
 </div>
+
 
 
 
