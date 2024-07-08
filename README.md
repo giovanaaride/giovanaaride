@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFFF&size=40&center=true&vCenter=true&width=1000&lines=I+am+Giovana+Aride;Front-End+Developer;Html+|+Css+|+JavaScript;React+|+Sass+|+Figma)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovanaaride&layout=compact&theme=radical)
 
 
 
