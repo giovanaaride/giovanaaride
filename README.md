@@ -4,8 +4,8 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giovanaaride&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" height="195px" style="max-width: 49%;" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giovanaaride&layout=compact&langs_count=5&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" height="195px" style="max-width: 49%;" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=giovanaaride&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" height="195px" style="display: inline-block; margin-right: 5px;" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giovanaaride&layout=compact&langs_count=5&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" height="195px" style="display: inline-block; margin-left: 5px;" alt="languages graph" />
 </div>
 
 <h2 align="left">🔧 Skills</h2>
