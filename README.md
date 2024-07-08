@@ -1,6 +1,6 @@
 <img width="100%" src="https://camo.githubusercontent.com/d323bf92adb96c6b2f1fe6d7a1f4ab7fb8cd328db04cb5d9ce8efbd84a7d7813/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3132302673656374696f6e3d686561646572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=00bfbf&amp;height=120&amp;section=header" style="max-width: 100%;">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=40&amp;pause=1000&amp;color=00FFFF&amp;center=true&amp;random=false&amp;width=435&amp;lines=%3Ch1%3EHello+World%2F%3E%3B%3Ch1%3EBem-vindo(a)+ao+meu+perfil+no+GitHub!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=40&amp;pause=1000&amp;color=00FFFF&amp;center=true&amp;random=false&amp;width=435&amp;lines=Hello+World%2F%3BWelcome+to+my+GitHub!" alt="Typing SVG" />
 
 
 
