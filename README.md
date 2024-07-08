@@ -2,10 +2,11 @@
 
 <div align="center" style="background-color: #e0f2f1; padding: 20px;">
   <h2 style="color: #00bcd4;"><code>&lt;Hello World/&gt;</code></h2>
-  <h3 style="color: #00bcd4;">Welcome to my GitHub!</h3>
+  <h3 style="color: #00bcd4;">Welcome to my Github !</h3>
   
   <img width="1000px" src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=40&center=true&vCenter=true&width=1000&lines=I+am+Giovana+Aride;Front-End+Developer" alt="Typing SVG" />
 </div>
+
 
 
 <div align="center">
