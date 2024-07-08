@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovanaaride&layout=compact&theme=radical)
+![Giovana Aride](https://i.imgur.com/your-gif-url.gif)
 
 
 
