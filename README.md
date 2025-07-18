@@ -18,8 +18,6 @@
 ###
 
 <div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -31,6 +29,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h3 align="left">Back-End</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" />
 </div>
 
 ###
@@ -66,5 +78,3 @@
 <br clear="both">
 
 <p align="left">👩🏻‍💻 Currently seeking a job or internship.<br>🧑‍🎓 Computer Engineering student at Universidade Cândido Mendes.<br>📍 Rio de Janeiro, RJ, Brazil.<br>💻 Specifications:<br>B450M Asus Prime Gaming<br>Ryzen 3 2200G (Vega 8)<br>16GB (2x8) RAM 2666hz<br>🎮 RPG, Euro Truck Simulator 2, League of Legends, Teamfight Tactics.<br>🌐 Main technologies:<br>HTML, CSS, React, Sass, JavaScript<br>🧠 Learning:<br>JavaScript, TypeScript.<br>My portfolio:<br>https://giovanaaride.vercel.app/</p>
-
-###
