@@ -77,4 +77,19 @@
 
 <br clear="both">
 
-<p align="left">👩🏻‍💻 Currently seeking a job or internship.<br>🧑‍🎓 Computer Engineering student at Universidade Cândido Mendes.<br>📍 Rio de Janeiro, RJ, Brazil.<br>💻 Specifications:<br>B450M Asus Prime Gaming<br>Ryzen 3 2200G (Vega 8)<br>16GB (2x8) RAM 2666hz<br>🎮 RPG, Euro Truck Simulator 2, League of Legends, Teamfight Tactics.<br>🌐 Main technologies:<br>HTML, CSS, React, Sass, JavaScript<br>🧠 Learning:<br>JavaScript, TypeScript.<br>My portfolio:<br>https://giovanaaride.vercel.app/</p>
+<p align="left">
+  👩🏻‍💻 Currently employed as an intern.<br>
+  🎓 Graduated in Computer Engineering at Universidade Cândido Mendes.<br>
+  📍 Rio de Janeiro, RJ, Brazil.<br>
+  💻 Specifications:<br>
+  Steel Legend B450M<br>
+  Ryzen 5 2600<br>
+  GTX 960 Strix<br>
+  16GB (2x8) Predator 3000MHz RAM<br>
+  🎮 RPG, Euro Truck Simulator 2, League of Legends, Teamfight Tactics, Hogwarts Legacy.<br>
+  🌐 Main technologies:<br>
+  Python, FastAPI, HTML, CSS, React, Sass, JavaScript <br>
+  My portfolio:<br>
+  https://giovanaaride.vercel.app/
+</p>
+
