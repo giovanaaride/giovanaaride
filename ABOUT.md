@@ -83,16 +83,16 @@
   🎓 Graduated in Computer Engineering at Universidade Cândido Mendes.<br>
   📍 Rio de Janeiro, RJ, Brazil.<br>
   💻 Specifications:<br>
-  Steel Legend B450M<br>
-  Ryzen 5 2600<br>
-  GTX 960 Strix<br>
-  16GB (2x8) Predator 3000MHz RAM<br>
-  🎮 RPG, Euro Truck Simulator 2, League of Legends, Teamfight Tactics, Hogwarts Legacy.<br>
+  - Steel Legend B450M<br>
+  - Ryzen 5 2600<br>
+  - GTX 960 Strix<br>
+  - 16GB (2x8) Predator 3000MHz RAM<br>
+  🎮 Games:<br>
+  - RPG, Euro Truck Simulator 2, League of Legends, Teamfight Tactics, Hogwarts Legacy.<br>
   🌐 Main technologies:<br>
-  Python, FastAPI, HTML, CSS, React, Sass, JavaScript <br>
-  Contacts: <br>
-  Email: mailto:giovanaaride@gmail.com
-  My portfolio:<br>
-  https://giovanaaride.vercel.app/
+  - Python, FastAPI, HTML, CSS, React, Sass, JavaScript<br>
+  📫 Contacts:<br>
+  - Email: <a href="mailto:giovanaaride@gmail.com">giovanaaride@gmail.com</a><br>
+  - Portfolio: giovanaaride.vercel.app
 </p>
 
