@@ -90,6 +90,8 @@
   🎮 RPG, Euro Truck Simulator 2, League of Legends, Teamfight Tactics, Hogwarts Legacy.<br>
   🌐 Main technologies:<br>
   Python, FastAPI, HTML, CSS, React, Sass, JavaScript <br>
+  Contacts: <br>
+  Email: mailto:giovanaaride@gmail.com
   My portfolio:<br>
   https://giovanaaride.vercel.app/
 </p>
