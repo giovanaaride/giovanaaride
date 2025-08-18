@@ -93,6 +93,7 @@
   - Python, FastAPI, HTML, CSS, React, Sass, JavaScript<br>
   📫 Contacts:<br>
   - Email: <a href="mailto:giovanaaride@gmail.com">giovanaaride@gmail.com</a><br>
-  - Portfolio: giovanaaride.vercel.app
+  - Portfolio: <a href="https://giovanaaride.vercel.app/">giovanaaride.vercel.app</a>
 </p>
+
 
